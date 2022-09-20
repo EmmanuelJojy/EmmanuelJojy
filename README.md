@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @EmmanuelJojy
+# Hi! 👋, I'm Emmanuel Jojy
+## Computer Science Undergraduate at Federal Institute of Science and Technology (FISAT) 
+
 - 👀 I’m interested in Machine Learning and App Development
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me outmails2000@gmail.com
